@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2154893723">
-    <data-source source="LOCAL" name="MySQL - indigo@localhost" uuid="0d4965da-b069-4464-8897-b813ca690757">
+  <component name="DataSourceManagerImpl" format="xml" hash="3467035154">
+    <data-source source="LOCAL" name="MySQL - kickstarter@localhost" uuid="bf8bc235-a8e6-4524-8849-80f413130c5c">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/indigo</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/kickstarter</jdbc-url>
       <driver-properties>
         <property name="zeroDateTimeBehavior" value="convertToNull" />
         <property name="tinyInt1isBit" value="false" />
